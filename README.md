@@ -16,10 +16,10 @@ I am Sibel YILMAZ, working as a data scientist since 2021. My academic backgroun
 ## Data Science Projects
 
 ### 1. [Marketing Clearing Price Forecasting Transformer and LSTM Methods]
-- ** Technologies Used and Methods:** Python, Pandas, Scikit-learn, Lstm, Transformer, Prophet
+- **Technologies Used and Methods:** Python, Pandas, Scikit-learn, Lstm, Transformer, Prophet
 
 ### 2. [Summarization of bank negotiation documents using a large language model]
-- ** Technologies Used and Methods:** Python, Pandas,Lllm (Llama)
+- **Technologies Used and Methods:** Python, Pandas, llm (Llama), Fine Tunings
 
 ### 3. [Forecasting of Accrual-Collection]
 
@@ -27,7 +27,6 @@ I am Sibel YILMAZ, working as a data scientist since 2021. My academic backgroun
 
 ### 4. [Automatic Interview Evaluation]
 - **Technologies Used:** Python, Pandas, Nlp
-
 
 ### 5. [Leakage Detection]
 
