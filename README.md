@@ -11,7 +11,7 @@ I am Sibel YILMAZ, working as a data scientist since 2021. My academic backgroun
 ## Academic Publications
 
 ### Reliability analysis of repairable multistate phased mission systems with Markov approach based on states( https://www.emerald.com/insight/content/doi/10.1108/EC-09-2022-0583/full/html )  
-   _Published in: Emerald, 2023, SCI 
+   _Published in: Emerald, 2023, **SCI**
    
 ## Data Science Projects
 
