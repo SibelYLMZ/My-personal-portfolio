@@ -32,11 +32,3 @@ I am Sibel YILMAZ, working as a data scientist since 2021. My academic backgroun
 ### 5. [Leakage Detection]
 
 - **Technologies Used:** Python, Pandas, Data Preprocessing Methods (Label Encoding, Outlier Detection, Missing Values, Tree Methods, MLOPs) 
-
-## Skills and Tools
-
-- **Programming Languages:** Python, SQL, R
-- **Machine Learning:** Scikit-learn, XGBoost, LightGBM
-- **Deep Learning:** TensorFlow, Keras
-- **Visualization:** Matplotlib, Seaborn, Plotly
-- **Other Tools:** Git
