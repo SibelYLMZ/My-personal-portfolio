@@ -1,4 +1,4 @@
-# My Academic and Data Science Portfolio
+# My Data Science and Academic Portfolio
 
 ## About Me
 
