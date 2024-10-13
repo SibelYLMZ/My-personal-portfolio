@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am Sibel YILMAZ, a data scientist since 2021. My academic background and practical experience focus on data analysis, machine learning, deep learning, large language models (LLMs), and particularly energy forecasting. I am currently pursuing a Ph.D.
+I am Sibel YILMAZ, working as a data scientist since 2021. My academic background and practical experience focus on data analysis, machine learning, deep learning, large language models (LLMs), and particularly energy forecasting. I am currently pursuing a Ph.D.
 
 - **LinkedIn:** [LinkedIn Profile]( https://www.linkedin.com/in/sibelyilmazb2a34b158/)
   
